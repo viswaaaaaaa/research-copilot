@@ -1,0 +1,17 @@
+# Environment
+venv/
+.env
+
+# Data
+data/chroma_db/
+data/papers/
+data/memory.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Streamlit
+.streamlit/

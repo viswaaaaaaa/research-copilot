@@ -47,8 +47,6 @@ ollama pull llama3.2
 cp .env.example .env  # add your Tavily API key
 streamlit run ui/app.py
 
-###  Architecture
-```markdown
 
 #🏗 Architecture
 User Question

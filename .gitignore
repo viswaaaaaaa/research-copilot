@@ -6,6 +6,7 @@ venv/
 data/chroma_db/
 data/papers/
 data/memory.json
+data/query_log.jsonl
 
 # Python cache
 __pycache__/

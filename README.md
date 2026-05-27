@@ -209,16 +209,7 @@ streamlit run ui/app.py
 | UI         | Streamlit               |
 | Language   | Python                  |
 
----
 
-# 📈 Future Improvements
-
-* Metadata-aware retrieval
-* Section-aware chunking
-* Semantic chunking
-* Agentic multi-hop retrieval
-* Research graph generation
-* Citation graph visualization
 
 ---
 
